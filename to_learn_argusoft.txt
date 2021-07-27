@@ -14,4 +14,5 @@ aptitude:
 6)delete node which is pointing by the only one pointer
 7)intersecting linked list : find interesting node : check whether linked list is interesting or not
 
+this is added while github learning.
 8) linked list
