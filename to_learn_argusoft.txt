@@ -1,0 +1,17 @@
+aptitude:
+1. clock
+2.puzzle of 3/5 jug
+3. heavy marble
+4. java
+5. probability
+6. matrix rotation
+
+7. spiral matrix
+2)sparse matrix
+3)rotate matrix by 90°
+4)linked list reverse by recursion and iteration
+5)find nth node from the end in linked list
+6)delete node which is pointing by the only one pointer
+7)intersecting linked list : find interesting node : check whether linked list is interesting or not
+
+8) linked list
